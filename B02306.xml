@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Copy of an act presented to the Parliament by the merchants</title>
+            <author>Company of Scotland Trading to Africa and the Indies.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02306</idno>
+            <idno type="STC">Wing C5594AA</idno>
+            <idno type="STC">ESTC R174192</idno>
+            <idno type="EEBO-CITATION">53299006</idno>
+            <idno type="OCLC">ocm 53299006</idno>
+            <idno type="VID">179783</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02306)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179783)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2802:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Copy of an act presented to the Parliament by the merchants</title>
+                  <author>Company of Scotland Trading to Africa and the Indies.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>ca. 1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+                  <note>The draft of an act which was passed in May 1695. It called for the formation of a joint stock company to trade with Africa and the Indies.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trading companies --  Law and legislation --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  Commerce --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:179783:1"/>
+            <pb n="1" facs="tcp:179783:1" rendition="simple:additions"/>
+            <head>COPY OF AN ACT Preſented to the Parliament, BY THE MERCHANTS.</head>
+            <p>OUR SOVERAIGN LORD, taking into his Conſideration, That by an Act paſt in this preſent Parliament, Intituled <hi>Act for Encouraging of Forreign Trade,</hi> His Majeſty, for the Improvement thereof, did, with Advice and Conſent of the Eſtates of Parliament, Statute and Declare, That Merchants, more or fewer may Contract, and enter into ſuch Societies and Companies, for carrying on a Trade, as to any Subject of Goods or Merchandiſe, to whatſoever Kingdoms, Countries or Parts of the World, not being in War with his Majeſty, where Trade is in uſe to be or may be followed, and par<g ref="char:EOLhyphen"/>ticularly beſide the Kingdoms and Countries of EUROPE, to the <hi>Eaſt</hi> and <hi>Weſt Indies,</hi> the <hi>Straits,</hi> and to trade in the <hi>Mediterranian,</hi> or upon the Coaſt of <hi>Africa,</hi> or in the <hi>Northern Parts</hi> or elſe where as above: which Societies and Companies, being Contracted and Entered into, upon the Terms, and in the uſual manner, as ſuch Companies are ſet up, and in uſe in other Parts, conſiſtent always with the Laws of this Kingdom, His Majeſty, with Conſent foreſaid, did allow and approve giving and granting to them, and each of them, all Powers, Rights and Priviledges, as to their Perſons, Rules and Orders, that by the Laws are given to Companies, allowed to be Erected for Manufactories; And his Majeſty, for their greater Encouragement did promiſe to give to theſe Companies, and each of them, his Letters Patent under the Great Seal, Confirming the whole foreſaid Powers and Priviledges, with what other Encouragements His Majeſty ſhould judge needful, as the foreſaid Act of Parliament at more length bears</p>
+            <p>And His Majeſty underſtanding, That ſeveral Perſons, as well Forreigners as Natives of this Kingdom, are willing to engage themſelves, with great ſums of Money, in an <hi>American, African,</hi> and <hi>Indian Trade,</hi> to be exerciſed in, and from this Kingdom, if inabled and encou<g ref="char:EOLhyphen"/>raged thereinto by the Conceſſions, Powers and Priviledges needful and uſual in ſuch Caſes.</p>
+            <p>Therefore, and in purſuance of the foreſaid Act of Parliament, His Majeſty, with Advice and Conſent of the ſaid Eſtates of Parliament, Do hereby make and Conſtitute <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> with ſuch others as ſhal join with them within the ſpace of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> after the date hereof, and all other whom the foreſaid Perſons, or Major part of them being aſſembled, ſhal admit and join into theſe
+<pb n="2" facs="tcp:179783:2"/>their joint Stock and Trade, to be one Body Incorporat, and a free Corporation, with per<g ref="char:EOLhyphen"/>petual Succeſſion, by the Name of, <hi>The Company of Scotland, Trading to Africk and the Indies.</hi>
+            </p>
+            <p>With Power to the ſaid Company, to have a common Seal, and to alter and renew the ſame at their pleaſure: As alſo to plead and ſue, and be ſued, and to purchaſe, acquire, poſſeſs and enjoy Lordſhips, Lands, Tenements, or other Eſtate, real or perſonal, of whatſo<g ref="char:EOLhyphen"/>ever Nature or Quality; And to diſpoſe upon, and alienat the ſame, or any part thereof at their pleaſure, and that by Transferrs and Aſſigments, made and entered in their Books and Records, without any other formality of Law: Providing always, that the foreſaid Tranſ<g ref="char:EOLhyphen"/>ferrs and Conveyances; as to Lands and other real Eſtate, (when made of theſe only, and a part) be perfeited according to the Laws of the Kingdom anent the Conveyance of Lands and Real Rights.</p>
+            <p>With Power likewiſe to the foreſaid Company, by Subſcriptions or otherwiſe, as they ſhal ſee meet, to raiſe a joint Stock or Capital Fond of ſuch a ſum or ſums of Money, and under and ſubject unto ſuch Rules, Conditions, and Qualifications as by the foreſaid Perſons or Com<g ref="char:EOLhyphen"/>pany, and Major Part of them when aſſembled, ſhal be limited and appointed to begin, carry on, and ſupport their intended Trade and Navigation, and what ever may contribute to the Advancement thereof.</p>
+            <p>And it is hereby Declared, That the ſaid joint Stock or Capital Fond, or any Eſtate, Re<g ref="char:EOLhyphen"/>all or Perſonal, Ships, Goods, or other Effects off, or belonging to the ſaid Company ſhall not be lyable unto any manner of Confiſcation, Seizure, Forefeiture, Attachment, Arreaſt or Reſtraint, for and by Reaſon of any Embargo, Breach of the Peace, Letters of Mark or Reprizeal, Declaration of War with any Forreign Prince, Potentate or State, or upon any o<g ref="char:EOLhyphen"/>ther Account or Pretence whatſoever, but ſhal only be transferrable, aſſignable or alienable, in ſuch way and manner, and in ſuch Parts and Proportions, and under ſuch Reſtrictions, Rules and Conditions as the ſaid Company ſhal by Writing in, and upon their Books, Records and Regiſters direct and appoint, and theſe Transferrs and Aſſignments only, and no other ſhal convoy the Right and Property, in, and to the ſaid joint Stock, and Capital Fond, and Ef<g ref="char:EOLhyphen"/>fects thereof above mentioned, or any part of the ſame, excepting always as is above excep<g ref="char:EOLhyphen"/>ted; And that the Creditors of any particular Member of the Company, may by their Real Diligence affect the ſhare of the Profit, falling and pertaining to the Debitor, without having any farder Right or Power of the Debitors Part and Intereſt in the Stock, or Capital Fond, otherways than is above appointed, and the Books, Records, and Regiſters of the ſaid Com<g ref="char:EOLhyphen"/>pany, or Authentick Abſtracts or Extracts out of the ſame, are hereby declared to be good and ſufficient for Evidence in all Courts of Judicature, and elſe-where.</p>
+            <p>And His Majeſtie with Advice foreſaid, farder Statutes and Declares, that the ſaid <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> and others to be joyned with, aſſumed by them in manner above-mentioned, and their Succeſſors, or major part of them Aſſembled in the ſaid Company, ſhall and may in all time-coming by the plurality of Votes, Agree, Make, Conſtitute and Ordain all ſuch other Rules, Ordinances and Conſtitutions, as may be needful for the better Go<g ref="char:EOLhyphen"/>vernment and Improvement of their Joynt Stock, or Capital Fond, in all matters and things relating thereunto; To which Rules, Orders and Conſtitutions, the ſame being conſiſtent mith, and no ways contrary to the Laws of the Kingdom, all perſons belonging to the ſaid Company, as well Directors as Members thereof, Governours or other Officers Civil or Mi<g ref="char:EOLhyphen"/>litary, or others whatſoever ſhall be ſubject, and thereby concluded.</p>
+            <p>And the ſaid Company is hereby impowered to equipp, fit, ſet out, fraught and Navigat their own, or hired Ships in ſuch manner as they ſhall think fit; and that notwithſtanding the Act of Parliament 1661, Intituled, <hi>Act for encourageing Shipping and Navigation,</hi> wherewith His Majeſty with Conſent foreſaid, Diſpenſes in favours of the ſaid Company, &amp; that from any of the parts or places of this Kingdom, or from any other parts or places in Amity, or not in Hoſtility with His Majeſty, in Warlike or other manner; to any Lands, Iſlands, Countries or pla<g ref="char:EOLhyphen"/>ces in <hi>Aſia, Africa</hi> or <hi>America:</hi> and there to Plant Colonies, Build Cities, Towns or Forts, in or upon the places not Inhabited, or in or upon any other place by conſent of the Natives and Inhabitants, and not poſſeſt by any <hi>European,</hi> Soveraign, Potentat Prince or State; and to provide and furniſh the foreſaid Places, Cities, Towns or Forts, with Magazines, Ord<g ref="char:EOLhyphen"/>nances, Arms, Weapons, Ammunition and Stores of War: and by Force of Arms to de<g ref="char:EOLhyphen"/>fend their Trade and Navigation, Colonies, Cities, Towns, Forts and Plantations, and other ther Effects whatſoever. As alſo to make Repriſals, and to ſeek and take Reparation of Dam<g ref="char:EOLhyphen"/>nage, done by Sea or by Land, and to make and conclude Treaties of Peace, and Com<g ref="char:EOLhyphen"/>merce with the Soveraigns, Princes, Eſtates, Rulers, Governours or Proprietars of the a<g ref="char:EOLhyphen"/>foreſaid Lands, Iſlands, Countries or Places in <hi>Aſia<g ref="char:punc">▪</g> Africa</hi> or <hi>America.</hi>
+            </p>
+            <pb n="3" facs="tcp:179783:2"/>
+            <p>And His Majeſty with Conſent foreſaid, doth furder Statut and Ordain, that none of the Leidges of this Kingdom, ſhall or may Trade, or Navigat to any Lands, Iſlands, Countries, or Places in <hi>Aſia, Africa</hi> or <hi>America,</hi> for and during the ſpace of twenty one Years, to be accompted from the paſſing of this preſent Act, without Licenſe and Permiſſion in Writing from the the ſaid Company: Certifying all ſuch as ſhall do in the contrary hereof, that they ſhall Forfeit and Amit the third part of the Ship or Ships, and of the Cargoe or Cargoes there<g ref="char:EOLhyphen"/>in employed, or the Value thereof; whereof the one half to His Majeſty as Eſcheat, and the other half to the uſe and benefit of the ſaid Company: excepting always, and without Pre<g ref="char:EOLhyphen"/>judice to any of the Subjects of this Kingdom, to Trade and Navigat to any part of <hi>America,</hi> where the Colonies, Plantations or Poſſeſsions of the ſaid Company ſhall not be ſettled.</p>
+            <p>And it is furder hereby Enacted, that the ſaid Company ſhall have the Free and abſolute Right and Property, only Releving and Holding of His Majeſty and His Succeſſors in So<g ref="char:EOLhyphen"/>veraignty, for the only Acknowledgement of their Allegiance in and to all ſuch Lands, Iſlands, Colonies, Cities, Towns, Forts and Plantations that they ſhall come to Eſtabliſh, or Poſ<g ref="char:EOLhyphen"/>ſeſs in manner foreſaid. As alſo, to all manner of Treaſures, Wealths, Riches, Profits, Mines, Minerals, Fiſhings, with the whole Product and Benefit thereof, as well under as above the Ground, and as well in Rivers and Seas, as in the Lands thereto belonging: or from or by reaſon of the ſame in any ſort, together with the Right of the Government and Admirali<g ref="char:EOLhyphen"/>ty thereof. And that the ſaid Company may by Vertue hereof, Grant and Delegat ſuch Rights, Properties, Powers and Immunities, and permit and allow ſuch ſort of Trade, Commerce and Navigation unto their Plantations, Colonies, Cities, Towns or Places of their Poſſeſsion, as the ſaid Company from time to time ſhall judge meet and convenient.</p>
+            <p>With power to them, to Impoſe and Exact ſuch Cuſtoms and other Duties upon, and from themſelves and others Trading with, and coming to the ſaid Plantations, Cities, Towns and Places, and Ports and Harbours thereof. as the Company ſhall think needful for the Maintain<g ref="char:EOLhyphen"/>ance and other publick Uſes of the ſame. Holding always, and to hold the whole Premiſſes of His Majeſty, and His Succeſſors Kings of <hi>Scotland,</hi> as Soveraigns thereof. And paying on<g ref="char:EOLhyphen"/>ly for the ſame, their Acknowledgement and Allegiance for all other Duty, Claim or De<g ref="char:EOLhyphen"/>mand whatſoever.</p>
+            <p>With power and liberty to the ſaid Company, to Treat for, and to procure and purchaſe ſuch Rights, Liberties, Priviledges, Exemptions and other Grants, as may be convenient for Supporting, Promoting and Enlarging their Trade and Navigation, from any Forreign Poten<g ref="char:EOLhyphen"/>tat or Prince whatſoever, in Amity with His Majeſty. For which, the General Treaties of Peace and Commerce, betwixt His Majeſty and ſuch Potentates, Princes or States, ſhall ſerve for ſufficient Security, Warrand and Authority: and if contrary to the ſaid Rights, Lights, Liberties, Priviledges, Exemptions, Grants or Agreements; any of the Ships, Goods, Mer<g ref="char:EOLhyphen"/>chandiſe, Perſons, or other Effects whatſoever belonging to the ſaid Company, ſhall be ſtopt, detained, Imbazelled, or away taken, or in any ſort prejudged or damnified, His Majeſty promiſſes to Interpoſe His Authority, to have Reſtitution, Reparation, and Satisfaction made for the Damage done, and that upon the publick Charge which His Majeſty ſhall cauſe Deburſe and lay out for that Effect.</p>
+            <p>And furder, it is hereby Statute, That all Ships, Veſſels, Merchandize, Goods and other Effects whatſoever belonging to the ſaid Company, ſhall be free of all manners of Reſtraints or Prohibitions, and of all Cuſtoms, Taxes, Ceſſes, Supplies, or other Duties impoſed, or to be impoſed by Act of Parliament, or otherwiſe, for and during the ſaid ſpace of twenty and one Years, excepting always the whole Duties of Tobacco and Sugar, that are not of the Growth of the Plantations of the ſaid Company.</p>
+            <p>And farder, It is hereby Enacted, that the ſaid Company by Commiſſion under their Com<g ref="char:EOLhyphen"/>mon Seal or other ways as they ſhall appoint, may make and conſtitute all and every their Directors, Governors, Commanders in Chief, and other Officers Civil or Military by Sea or by Land; As likewiſe, that the ſaid Company may Inliſt, Inroll, Hire and Retain all ſuch Perſons Subjects of this Kingdom, or others whatſoever as ſhall be willing and conſent to en<g ref="char:EOLhyphen"/>ter into their Service or Pay, providing always that they uplift or Levy none within this King<g ref="char:EOLhyphen"/>dom to be Soldiers, without Leave and Warrand firſt obtained from His Majeſty, or the Lords of His Privy Council, over which, Directors, Governours, Commanders in Chief, and other Officers Civil and Military, and others whatſoever in their Service and Pay, the Company ſhall have the Power, Command, and Diſpoſition both by Sea and Land.</p>
+            <p>And it is farder Statute, that no Officer Civil or Military, or other perſon whatſoever within this Kingdom, ſhall impreſs, Intertain, Stop or Detain any of the Members, Officers, Servants, or others whatſoever of, or belonging to the ſaid Company; And in caſe the ſaid
+<pb n="4" facs="tcp:179783:3"/>Company their Officers or Agents ſhall find or underſtand any of the Members, Officers, Ser<g ref="char:EOLhyphen"/>vants, or others foreſaids to be Impreſſed, Stopped or Detained, they are hereby Authoriz<g ref="char:EOLhyphen"/>ed and allowed to toke hold off, and releaſe the foreſaid Perſon impreſt or ſtopt in any part of this Kingdom, either by Land or Water, and all Magiſtrats and others His Majeſties Officers, Civil and Military, and all others, are hereby required in their reſpective Stations, to be aiding and aſſiſting to the ſaid Company, unde the pain of being lyable to all the Loſs, Damage and Detriment of the ſaid Company, by reaſon of the foreſaid perſons their neglect.</p>
+            <p>And farder, that the ſaid Company, whole Members, Officers, Servants, or others be<g ref="char:EOLhyphen"/>longing thereto, ſhall be free both in their Perſons, Eſtate and Goods imployed in the ſaid Stock and Trade, from all manner of Taxes, Ceſſes, Supplies, Exciſes, Quartering of Soldiers Tranſient or Local, or Leveying of Soldiers, or other Impoſition whatſoever, and that for and during the ſpace of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> years.</p>
+            <p>And laſtly, all perſons concerned or to be concerned in this Company, are hereby decla<g ref="char:EOLhyphen"/>red to be free Denizons of this Kingdom, and that they withal that ſhall ſettle to inhabite, or be born in any of the foreſaids Plantations, Collonies, Cities, Towns, Factories, and o<g ref="char:EOLhyphen"/>ther places that ſhall be purchaſed and poſſeſt by the ſaid Company, ſhall be repute as Natives of this Kingdom, and have the Priviledge thereof.</p>
+            <p>And generally without prejudice of the Specialities foreſaid, His Majeſtie with Conſent foreſaid, Gives and Grants to the ſaid Company, all Powers, Rights and Priviledges as to their Perſons, Rules, Orders, Eſtates, Goods and Effects whatſoever, that by the Laws are given to Companies, allowed to be Erected for Manufactories, or that are uſually given in any other Civil Kingdom or Common-wealth, to any Company there Erected for Trade and Commerce.</p>
+            <p>And for the better Eſtabliſhment and greater Solemnity of this Act and gift in favours of the ſaid Company; His Majeſty doth farder Ordain Letters patent to be expede hereupon, con<g ref="char:EOLhyphen"/>taining the whole Premiſſes under the Great Seal of this Kingdom; For doing whereof <hi>per ſaltum,</hi> thir preſents ſhall be a ſufficient Warrand both to the Director and the Chancellor or Keeper of the Great Seal, as uſe is in the like Caſes.</p>
+            <pb facs="tcp:179783:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
